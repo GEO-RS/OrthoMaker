@@ -42,7 +42,7 @@ changelog=
 # Tags are comma separated with spaces allowed
 tags= Ortho photo, remote sensing 
 
-homepage=
+homepage=https://github.com/GEO-RS/OrthoMaker
 category=Plugins
 icon=icon.png
 # experimental flag
